@@ -1,7 +1,14 @@
-2) We will create a module2.txt file in the Module 2 folder in it you will write in your
-own words the answer to the following 3 questions:
-a) What is Git and how is it different than github
-b) Why use the terminal
-c) Explain 3 benefits version control in your own words
-3) Create a new branch Module2, check into it and push the new files.
-4) Merge Module2 into Master.
+ write in your
+own words the answer to the following 3 questions
+ What is Git and how is it different than github?
+ 
+ 
+To my understanding Git are the codes and commands that communicate directly to the terminal.
+Git hub is a repository that saves files.
+
+Why use the terminal? This sets paramiters and fixes issues directly at the source its also the best way to set system preferences
+
+ Explain 3 benefits version control in your own words
+The software in version control monitors and keeps tracks of changes.
+2. It lets you go back to the original if the changes don't suit your liking also you can experiment with modifications for your own use.
+3.It keeps things organized by making branches of one file it lets you make your work public so you can share with your team as well.
