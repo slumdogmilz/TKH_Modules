@@ -1,2 +1,2 @@
 # TKH_Modules
-mods if the tkh variety
+mods of the tkh variety
